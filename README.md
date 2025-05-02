@@ -2,9 +2,6 @@
 <h3 align="center">A beginner Web developer/ Cybersecurity engineer</h3>
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5cfa47f-2334-4c4d-a74b-968f5bcab153" alt="Image" />
-</p>
 
 - 🔭 I’m currently working on **Getting my Comptia Security + Cert**
 
