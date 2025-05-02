@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">A beginner Web developer/ Cybersecurity engineer</h3>
+<h3 align="center">A beginner in Cybersec and Webdevr</h3>
 
 
 ![Image](https://github.com/user-attachments/assets/034b7116-48f0-45f6-a28f-378f0b5f2167)
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Getting my Comptia Security + Cert**
 
-- 🌱 I’m currently learning **How to create romhack pokemon games**
+- 🌱 I’m currently learning **How to create my first ever romhack**
 
 - ⚡ Fun fact **I love playing video games!**
 
