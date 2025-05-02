@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 <h3 align="center">A beginner Web developer/ Cybersecurity engineer</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5cfa47f-2334-4c4d-a74b-968f5bcab153" alt="Image" />
-</p>
+![Image](https://github.com/user-attachments/assets/034b7116-48f0-45f6-a28f-378f0b5f2167)
 
 - 🔭 I’m currently working on **Getting my Comptia Security + Cert**
 
