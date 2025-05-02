@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">A beginner in Cybersec and Webdevr</h3>
+<h3 align="center">A beginner in Cybersec and Webdev</h3>
 
 
 ![Image](https://github.com/user-attachments/assets/034b7116-48f0-45f6-a28f-378f0b5f2167)
