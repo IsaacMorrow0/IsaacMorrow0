@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Getting my Comptia Security + Cert**
 
-- 🌱 I’m currently learning **How to create my first ever romhack**
+- 🌱 I’m currently getting my **Google Cybersecurity Certificate**
 
 - ⚡ Fun fact **I love playing video games!**
 
