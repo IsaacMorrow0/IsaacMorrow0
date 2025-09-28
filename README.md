@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Getting my Comptia Security + Cert**
 
-- 🌱 I’m currently getting my **Google Cybersecurity Certificate**
+- 🌱 My last achievment is my **Google Cybersecurity Certificate**
 
 - ⚡ Fun fact **I love playing video games!**
   
